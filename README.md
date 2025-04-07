@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhackerson-TIW
 - 👀 I’m interested in Agile and Scrum, especially how to use AI tools and practices to simplify the use of them.
-- 🌱 I’m currently learning ChatCPT, Gemini, PromptLayer, GitHug
+- 🌱 I’m currently learning ChatCPT, Gemini, PromptLayer, GitHub
 - 💞️ I’m looking to collaborate on how to use AI to simply and speed up Scrum execution  
 - 📫 How to reach me bhackerson@intertech.com
 
